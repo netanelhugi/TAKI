@@ -9,8 +9,8 @@ For more info about the game: https://en.wikipedia.org/wiki/Taki_(card_game)
 
 
 ## How to compile:
-If this is the first running: **make**
-Else: **./a.out**
+If this is the first running: **make** <br/>
+Else: **./a.out** <br/>
 
 
 After the compile choose number of players(>1) and cards(>0) for each player<br/>
