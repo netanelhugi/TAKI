@@ -12,8 +12,9 @@ For more info about the game: https://en.wikipedia.org/wiki/Taki_(card_game)
 ```
 If this is the first running: make
 Else: ./a.out
+'''
 
-After the compile choose number of players(>1) and cards(>0) for each player<br />
+After the compile choose number of players(>1) and cards(>0) for each player<br/>
 and choose names for each player.
-In every turn choose the number of the card that you want to use, <br />
+In every turn choose the number of the card that you want to use, <br/>
 or choose another number for taking new card.
